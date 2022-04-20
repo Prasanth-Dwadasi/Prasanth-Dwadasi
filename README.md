@@ -7,9 +7,6 @@ My name is <b>Prasanth Dwadasi.</b>
   <a href="https://www.linkedin.com/in/prasanth-dwadasi-35779683/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
-  <a href="https://github.com/Prasanth-Dwadasi" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-  </a>
 </p>
 
 Follow my account for intersesting data science projects in future 😉
